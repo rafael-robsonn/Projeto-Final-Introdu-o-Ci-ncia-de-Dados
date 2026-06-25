@@ -88,6 +88,12 @@ roda em máquinas modestas e no Colab gratuito, sem estourar a RAM.
 | Categorias inconsistentes em `tipo_veiculo` | Normalização para rótulos canônicos |
 | Ano de 2026 incompleto (só até abril) | Recorte da análise em 2018–2025 |
 
+
+### Onde encontrar o dataset que utilizamos
+| Subimos o dataset compactado no drive
+| **Segue link:**
+| https://drive.google.com/drive/folders/1_znLDrd5Qr_-k8xOSFDhY0eaGFaLzWHd?usp=sharing
+
 ## Ferramentas
 
 Python · pandas · numpy · matplotlib · seaborn · Jupyter
