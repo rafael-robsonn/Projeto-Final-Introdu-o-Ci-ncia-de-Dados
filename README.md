@@ -91,7 +91,9 @@ roda em máquinas modestas e no Colab gratuito, sem estourar a RAM.
 
 ### Onde encontrar o dataset que utilizamos
 | Subimos o dataset compactado no drive
+
 | **Segue link:**
+
 | https://drive.google.com/drive/folders/1_znLDrd5Qr_-k8xOSFDhY0eaGFaLzWHd?usp=sharing
 
 ## Ferramentas
